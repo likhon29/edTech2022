@@ -5,7 +5,9 @@ main {
   padding-left: 120px;
 }
 
-
+.header{
+  margin-bottom:20px;
+}
 .card-text small {
   color: blue;
 }
@@ -52,11 +54,5 @@ footer{
 .footer-info{
   padding-top: 150px;
   color: white;
-} */
+} 
 
-@media only screen and (max-width: 576px){
-  /*--- for banner ---*/
-  .carousel-item img {
-      height: 50vh;
-  }
-  }
