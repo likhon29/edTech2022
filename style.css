@@ -4,41 +4,8 @@ main {
 .nav-item {
   padding-left: 120px;
 }
-.bg1 {
-  margin-top: 30px;
-  /* background-color: red; */
-  background-image: url(../images/cover/cover-1.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 600px;
-  opacity: 0.8;
-  filter: brightness(60%);
-}
-.bg2 {
-  margin-top: 30px;
-  background-image: url(../images/cover/cover-2.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 600px;
-  opacity: 0.8;
-}
-.bg3 {
-  margin-top: 30px;
-  background-image: url(../images/cover/cover-3.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 600px;
-  opacity: 0.8;
-}
-.cover-info {
-  text-align: center;
-  margin: 0px 400px;
-  position: relative;
-  top: 30%;
-  color: white;
-  opacity: 1;
-  font-size: 24px;
-}
+
+
 .card-text small {
   color: blue;
 }
@@ -46,7 +13,7 @@ main {
   margin-left: 50px;
 }
 
-.student-review,.question-header {
+/* .student-review,.question-header {
   text-align: center;
   /* justify-content: center; */
   /* align-items: center; */
@@ -58,12 +25,6 @@ main {
 .success,
 .student-review {
   margin: 100px 80px 100px;
-}
-.elearning-info {
-  margin-left: -32px;
-  padding: 200px 100px;
-  background-color: #f4fafd;
-  height: 810px;
 }
 .register {
   background-color: #289bde;
@@ -97,7 +58,7 @@ footer{
 .footer-info{
   padding-top: 150px;
   color: white;
-}
+} */
 
 @media only screen and (max-width: 576px){
   /*--- for banner ---*/
